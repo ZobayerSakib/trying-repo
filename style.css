@@ -8,6 +8,9 @@ header{
 .pic{
     height: 600px;
 }
-
+#jan{
+    background-color: orangered;
+     color:white;padding: 12px;
+}
 
 
